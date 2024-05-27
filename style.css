@@ -84,7 +84,7 @@
     font-family: 'Montserrat', 'sans-serif';
     min-width: 320px;
     width: 100%;
-  
+    background-color: var(--light-green);
     overflow-x: hidden;
   }
   
