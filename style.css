@@ -13,6 +13,7 @@
   
   h2 {
     font-weight: 400;
+    color:#E1670E;
   }
   
   h3 {
@@ -83,7 +84,7 @@
     font-family: 'Montserrat', 'sans-serif';
     min-width: 320px;
     width: 100%;
-    background-color: var(--white-color);
+    background-color: var(--light-green);
     overflow-x: hidden;
   }
   
